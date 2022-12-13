@@ -14,11 +14,11 @@ Train: 0.967, Test: 0.808   <br/>
  [ 21   4 168]]             <br/>  
  
  
- # Unseen data - accuracy 
+ # Unseen data - accuracy - 66.15%
  
- [[544  51  46]   <br/>
- [171 128   9]    <br/>
- [148  10 178]]   <br/>
+ [[544   51   46]   <br/>
+ [171   128    9]    <br/>
+ [148   10  178]]   <br/>
  
  
  
